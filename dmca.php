@@ -33,11 +33,11 @@ require("header.php");
 <p></p>
 <p>It is BeatSaver's policy:</p>
 <p></p>
-<p>1. to remove or disable access to the content identified in the notice of claimed infringement;</p>
+<p>1. To remove or disable access to the content identified in the notice of claimed infringement;</p>
 <p></p>
-<p>2. to notify the content provider, member or user that it has removed or disabled access to the content; and</p>
+<p>2. To notify the content provider, member or user that it has removed or disabled access to the content; and</p>
 <p></p>
-<p>3. to terminate in appropriate circumstances subscribers and account holders who are repeat infringers.</p>
+<p>3. To terminate in appropriate circumstances subscribers and account holders who are repeat infringers.</p>
 <p></p>
 <p>Procedure to Supply a Counter-Notice to the Designated Agent:</p>
 <p></p>
